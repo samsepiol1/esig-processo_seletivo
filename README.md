@@ -8,6 +8,7 @@ Requisitos
  - Java 8
  
 a) Criar uma aplicação Java Web utilizando JavaServer Faces (JSF) - ok
+
 b) Utilizar persistência em um banco de dados PostgreSQL. - ok
 
 Sistema com listagem de erros
