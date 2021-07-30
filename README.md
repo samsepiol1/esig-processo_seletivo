@@ -4,7 +4,7 @@ Gostaria de iniciar, infelizmente, dizendo que não fiz a atividade por completo
 
 Requisitos
  - Glasfish ou Tomcat
- - Postgreesql 11 ou 15
+ - PostgreSQL 11 ou 15
  - Java 8
  
 a) Criar uma aplicação Java Web utilizando JavaServer Faces (JSF) - ok
