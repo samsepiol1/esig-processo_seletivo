@@ -11,8 +11,10 @@ a) Criar uma aplicação Java Web utilizando JavaServer Faces (JSF) - ok
 
 b) Utilizar persistência em um banco de dados PostgreSQL. - ok
 
-Sistema com listagem de erros
+Sistema com listagem de erros:
+
 https://minememory.herokuapp.com/
 
 Usuário: admin@admin
+
 senha: imac88246948
